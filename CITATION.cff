@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use GenomeRadar in your research, please cite it as follows."
+title: "GenomeRadar"
+version: "1.0.0"
+doi: 10.5281/zenodo.18061389
+date-released: 2025-12-26
+url: https://github.com/francisconadalm/GenomeRadar
+repository-code: https://github.com/francisconadalm/GenomeRadar
+license: MIT
+authors:
+  - family-names: Nadal-Molero
+    given-names: Francisco
+    orcid: https://orcid.org/0000-0002-9396-2596
