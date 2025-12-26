@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18061389.svg)](https://doi.org/10.5281/zenodo.18061389)
+
 # GenomeRadar
 
 **GenomeRadar** is a Python tool for exploring the genomic context surrounding specific positions in **GenBank-annotated genomes**. It extracts and annotates flanking genes and other genomic features, enabling systematic analysis of local genomic neighborhoods around positions of biological interest.
@@ -125,5 +127,4 @@ This project is distributed under the **MIT License**.
 
 **GenomeRadar** reflects the idea of scanning genomic regions around specific coordinates to detect structure, context, and biologically relevant signals.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18061389.svg)](https://doi.org/10.5281/zenodo.18061389)
 
