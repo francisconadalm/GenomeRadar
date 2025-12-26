@@ -125,4 +125,5 @@ This project is distributed under the **MIT License**.
 
 **GenomeRadar** reflects the idea of scanning genomic regions around specific coordinates to detect structure, context, and biologically relevant signals.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18061389.svg)](https://doi.org/10.5281/zenodo.18061389)
 
