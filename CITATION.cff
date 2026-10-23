@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use GenomeRadar in your research, please cite it as follows."
 title: "GenomeRadar"
 version: "1.0.0"
-doi: 10.5281/zenodo.18061389
-date-released: 2025-12-26
+doi: 10.5281/zenodo.23599411
+date-released: 2026-10-23
 url: https://github.com/francisconadalm/GenomeRadar
 repository-code: https://github.com/francisconadalm/GenomeRadar
 license: MIT
