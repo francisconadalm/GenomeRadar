@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18061389.svg)](https://doi.org/10.5281/zenodo.18061389)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23599411.svg)](https://doi.org/10.5281/zenodo.23599411)
 
 # GenomeRadar
 
